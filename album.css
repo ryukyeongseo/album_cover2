@@ -19,6 +19,7 @@ body {
     color: #D7D7D7;
     overflow-x: hidden;
     overflow-y: auto;
+    padding: 0 300px;
 }
 
 img {
